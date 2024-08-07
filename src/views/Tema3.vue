@@ -13,7 +13,7 @@
         figure
           img(src='@/assets/curso/tema3/img1.png', style='width: 350px', alt='').m-auto
       .col-lg-9(data-aos="fade-left")
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Política de provisión del talento humano")
             .col-12
               ul.lista-ul
@@ -46,7 +46,7 @@
                   p.mb-0 Los criterios de evaluación de la calidad y la adecuación de los colaboradores, mediante la evaluación del desempeño.
     .row.align-items-center.mb-5
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul1")
           .row(titulo="Políticas de mantenimiento")
             .col-12
               ul.lista-ul

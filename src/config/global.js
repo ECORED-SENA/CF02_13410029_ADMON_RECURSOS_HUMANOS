@@ -99,32 +99,62 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Proceso de selección',
+      referencia:
+        'Relevium en Recursos Humanos. (2021). <i>8 pasos para el proceso de Reclutamiento y Selección de empleados</i>. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=sOve4oz7ERM&t=1s',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Entrevista inicial',
+      significado:
+        'primera evaluación formal de un candidato donde se analizan sus habilidades y compatibilidad con el puesto, realizada en un ambiente tranquilo y con atención detallada al comportamiento del entrevistado.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Examen ocupacional',
+      significado:
+        'evaluación física que determina si un candidato está en condiciones de salud adecuadas para desempeñar un trabajo específico.',
+    },
+    {
+      termino: 'Manual de funciones',
+      significado:
+        'documento que detalla las responsabilidades, tareas y requisitos de un puesto específico dentro de una organización, utilizado para guiar el proceso de selección y evaluación de candidatos.',
+    },
+    {
+      termino: 'Pruebas de aptitud',
+      significado:
+        'evaluaciones que miden las capacidades y habilidades específicas de un candidato para desempeñar ciertas tareas dentro de una organización.',
+    },
+    {
+      termino: 'Reclutamiento',
+      significado:
+        'proceso de atraer candidatos potenciales para una vacante en una organización. Puede ser interno (dentro de la organización) o externo (a través de anuncios y bolsas de empleo).',
+    },
+    {
+      termino: 'Verificación de referencias',
+      significado:
+        'procedimiento para comprobar la veracidad de la información proporcionada por el candidato, contactando a sus referencias laborales anteriores.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Esparragoza, A. (s.f.). <i>Administración de recursos humanos y talento humano</i>. Gestiopolis.com ',
+      link:
+        'www.gestiopolis.com/administracion-de-recursos-humanos-y-talento-humano/',
+    },
+    {
+      referencia:
+        'Gestión.org. (s.f.). <i>La administración del talento humano</i>. ',
+      link:
+        'http://www.gestion.org/recursos-humanos/gestion-competencias/4948/la-administracion-del-talento-humano/',
+    },
+    {
+      referencia: 'Manosalva, J. (2009). <i>Gestión del talento humano</i>. ',
+      link:
+        'http://www.monografias.com/trabajos81/gestion-del-talento-humano/gestion-del-talento-humano2.shtml',
     },
   ],
   creditos: [
@@ -147,8 +177,18 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Orlando Vidal Perdomo',
+          cargo: 'Experto Temático',
+          centro: 'Regional Risaralda',
+        },
+        {
+          nombre: 'Didier Andrés Ospina Osorio',
+          cargo: 'Experto Temático',
+          centro: 'Regional Risaralda',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -157,40 +197,40 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrés Felipe Herrera Roldán',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y Producción audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Locución',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
+        //{
+        //  nombre: 'Jaime Hernán Tejada Llano',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

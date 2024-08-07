@@ -5,7 +5,11 @@
     </p>
     <div class="row align-items-center">
       <div class="d-none d-md-block col-5">
-        <img :src="pregunta.imagen" alt="" />
+        <img
+          :src="pregunta.imagen"
+          alt=""
+          style="width: 300px; margin: auto;"
+        />
       </div>
       <div class="col">
         <div
