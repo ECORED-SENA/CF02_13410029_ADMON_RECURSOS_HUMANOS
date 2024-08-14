@@ -13,7 +13,7 @@
         .row.mb-3
           .col-12
             .p-4.bg-c1
-              p.mb-0 De acuerdo con el perfil o la vacante que se quiere proveer y las características de la organización que se realice el proceso, los procedimientos que se adelanten podrán tener ciertos grados de dificultad, es decir, habrán empresas en las que el proceso de selección tendrá una forma más larga y una serie mayor de pruebas de selección, esto ocurre por políticas internas que la organización tiene establecidas.
+              p.mb-0 De acuerdo con el perfil o la vacante que se quiere proveer y las características de la organización que se realice el proceso, los procedimientos que se adelanten podrán tener ciertos grados de dificultad, es decir, habrá empresas en las que el proceso de selección tendrá una forma más larga y una serie mayor de pruebas de selección, esto ocurre por políticas internas que la organización tiene establecidas.
         .row
           .col-12
             .p-4.bg-c2

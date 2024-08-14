@@ -82,7 +82,7 @@
                     img(src='@/assets/curso/tema2/img2.svg', style='width: 50px', alt='').m-auto
                 .col
                   h2.mb-0 Entrevista inicial
-          p(data-aos="fade-right") Permite la evaluación del candidato para ofrecerle el empleo. Para esta entrevista existe una serie de puntos que deben ser tomados en cuenta. Antes de comenzar ,se deben determinar las preguntas que se le hará al solicitante.
+          p(data-aos="fade-right") Permite la evaluación del candidato para ofrecerle el empleo. Para esta entrevista existe una serie de puntos que deben ser tomados en cuenta. Antes de comenzar, se deben determinar las preguntas que se le harán al solicitante.
           .row.align-items-center.mb-5.mb-lg-0
             .col-lg-8(data-aos="fade-right")
               p Durante la entrevista se recomienda:
@@ -110,22 +110,22 @@
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema2/img5.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Entrevista preliminar]
+              p.text-center.text-white.mb-0 #[b Entrevista preliminar.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema2/img6.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Entrevista personal]
+              p.text-center.text-white.mb-0 #[b Entrevista personal.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema2/img7.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Entrevista grupal]
+              p.text-center.text-white.mb-0 #[b Entrevista grupal.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema2/img8.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Entrevista técnica]
+              p.text-center.text-white.mb-0 #[b Entrevista técnica.]
     .row.bg-c9.mb-5
       .col-12
         .px-5
@@ -194,21 +194,21 @@
           img(src='@/assets/curso/tema2/img11.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              p.text-center #[b.txt-c1 Examen ocupacional.]
+              p.text-center #[b.txt-c1 Examen ocupacional]
       .col-10.col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema2/img12.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              p.text-center #[b.txt-c1 Examen de laboratorio:]
-              p.text-center.text-white.mb-0 #[b parcial de orina, serología.]
+              p.text-center #[b.txt-c1 Examen de laboratorio]
+              p.text-center.text-white.mb-0 #[b Parcial de orina, serología.]
       .col-10.col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema2/img13.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
-              p.text-center #[b.txt-c1 Exámenes específicos y ocupacionales:]
-              p.text-center.text-white.mb-0 #[b cuadro hemático, audiometría, optometría, electrocardiograma, colesterol, triglicéridos.]
+              p.text-center #[b.txt-c1 Exámenes específicos y ocupacionales]
+              p.text-center.text-white.mb-0 #[b Cuadro hemático, audiometría, optometría, electrocardiograma, colesterol, triglicéridos.]
     .row.mb-5(data-aos="fade-down")
       .col-auto.bg-c6
         .row.align-items-end
@@ -227,7 +227,7 @@
                   figure
                     img(src='@/assets/curso/tema2/img14.svg', style='width: 80px', alt='').m-auto
                 .col
-                  P.mb-0 Finalmente y superada todas las etapas en el proceso de selección, esta parte es la culminación, en la que la organización dispone del proceso de contratación.
+                  P.mb-0 Finalmente superada todas las etapas en el proceso de selección, esta parte es la culminación, en la que la organización dispone del proceso de contratación.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema2/img9.png', style='width: 160px', alt='').m-auto
@@ -238,7 +238,7 @@
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {

@@ -143,7 +143,7 @@ export default {
       referencia:
         'Esparragoza, A. (s.f.). <i>Administración de recursos humanos y talento humano</i>. Gestiopolis.com ',
       link:
-        'www.gestiopolis.com/administracion-de-recursos-humanos-y-talento-humano/',
+        'https://www.gestiopolis.com/administracion-de-recursos-humanos-y-talento-humano/',
     },
     {
       referencia:
@@ -163,12 +163,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -178,17 +178,17 @@ export default {
       autores: [
         {
           nombre: 'Orlando Vidal Perdomo',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Regional Risaralda',
         },
         {
           nombre: 'Didier Andrés Ospina Osorio',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Regional Risaralda',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -198,34 +198,34 @@ export default {
       autores: [
         {
           nombre: 'Andrés Felipe Herrera Roldán',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Jhon Jairo Urueta Alvarez',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        //{
-        //  nombre: 'Nombre',
-        //  cargo: 'Animador y Producción audiovisual',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
-        //{
-        //  nombre: 'Nombre',
-        //  cargo: 'Locución',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'José Eduardo Solano Rivero',
+          cargo: 'Animador y productor multimedia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        //{
-        //  nombre: 'Luis Gabriel Urueta Alvarez',
-        //  cargo: 'Validador de Recursos Educativos Digitales',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         //{
         //  nombre: 'Jaime Hernán Tejada Llano',
         //  cargo: 'Validador de Recursos Educativos Digitales',

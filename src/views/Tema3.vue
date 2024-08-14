@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Política de gerencia del talento humano
-    p(data-aos="fade-right") La política de talento humano debe desarrollarla cada organización, teniendo en cuenta su filosofía y necesidades y también deben involucrar aspectos de la organización.
+    p(data-aos="fade-right") La política del talento humano es desarrollada por cada organización, teniendo en cuenta su filosofía y necesidades, involucrando diferentes aspectos de la organización.
     p.mb-5(data-aos="fade-right") De acuerdo con Manosalva (2009), existen las siguientes políticas:
     .row.align-items-center
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -65,7 +65,7 @@
                 li.d-flex
                   i.fas.fa-check-circle(style="color: #1D746A")
                   |
-                  p.mb-0 Criterios relativos a las condiciones físicas ambientales de higiene y seguridad, que rodean el desempeño de las tareas y atribuciones del universo de cargos de la organización.
+                  p.mb-0 Criterios relativos a las condiciones físicas, ambientales, de higiene y seguridad, que rodean el desempeño de las tareas y atribuciones del universo de cargos de la organización.
           .row(titulo="Políticas de desarrollo")
             .col-12
               ul.lista-ul
@@ -91,7 +91,7 @@
                 li.d-flex
                   i.fas.fa-check-circle(style="color: #1D746A")
                   |
-                  p.mb-0 Criterios para auditoria permanente de la aplicación y adecuación de políticas y de los procedimientos, relacionados con los recursos humanos de la organización.
+                  p.mb-0 Criterios para auditoría permanente de la aplicación y adecuación de políticas y de los procedimientos, relacionados con los recursos humanos de la organización.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img2.png', style='width: 350px', alt='').m-auto

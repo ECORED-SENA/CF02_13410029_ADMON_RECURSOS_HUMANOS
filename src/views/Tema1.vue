@@ -17,7 +17,7 @@
     .row.align-items-center.mb-5
       .col-lg-10.order-2.order-lg-1(data-aos="fade-right")
         .p-4.bg-c4
-          p Por ello, los manuales de funciones y procedimientos de los cargos, deben estar diseñados, estructurados y elaborados, esto permite contar con las pautas necesarias para diseñar la oferta del cargo con sus respectivas descripciones.
+          p Por ello, los manuales de funciones y procedimientos de los cargos, deben estar diseñados, estructurados y elaborados. Esto permite contar con las pautas necesarias para diseñar la oferta del cargo con sus respectivas descripciones.
           p.mb-0 A continuación, conozcamos los pasos en la selección de personal:
       .col-lg-2.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
@@ -29,22 +29,22 @@
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img2.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Análisis del cargo]
+              p.text-center.text-white.mb-0 #[b Análisis del cargo.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img3.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Reclutamiento de candidatos]
+              p.text-center.text-white.mb-0 #[b Reclutamiento de candidatos.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img4.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Selección de candidatos]
+              p.text-center.text-white.mb-0 #[b Selección de candidatos.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
                 img(src='@/assets/curso/tema1/img5.svg', style='width: 60px', alt='').m-auto
-              p.text-center.text-white.mb-0 #[b Decisión de contratación]
+              p.text-center.text-white.mb-0 #[b Decisión de contratación.]
         .bloque-texto-d.color-secundario.p-4(data-aos="fade-right")
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left

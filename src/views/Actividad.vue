@@ -66,7 +66,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Revisar el historial médico del candidato',
+              texto: 'Revisar el historial médico del candidato.',
               esCorrecta: false,
             },
             {
@@ -268,7 +268,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'PEl estado de salud del aspirante.',
+              texto: 'El estado de salud del aspirante.',
               esCorrecta: true,
             },
             {
