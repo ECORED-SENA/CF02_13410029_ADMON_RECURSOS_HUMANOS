@@ -108,7 +108,7 @@
               p.text-white Lo invitamos a escuchar el siguiente pódcast, donde se presentarán algunas conclusiones de lo estudiado en el componente formativo:
               TarjetaAudio.color-primario.mb-3(
                 texto="Conclusiones"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                :audio="require('@/assets/curso/tema3/conclusiones.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
       .col-lg-5(data-aos="fade-left")

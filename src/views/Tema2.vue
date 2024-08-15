@@ -34,7 +34,7 @@
         .px-5
           .row.justify-content-center.mb-5
             .col-md-8.col-xl-4.mb-4.mb-xl-0(data-aos="fade-right")
-              .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = true")
+              .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img3.png')})`}")
@@ -44,7 +44,7 @@
                         h3.text-center.text-white Interna
                         p.text-center.text-white Se distingue porque se realiza, como su nombre lo indica, al interior de las organizaciones, a través de convocatorias, recomendación de los líderes y banco de hojas de vida.
             .col-md-8.col-xl-4.mb-4.mb-xl-0(data-aos="fade-left")
-              .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = true")
+              .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img4.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
