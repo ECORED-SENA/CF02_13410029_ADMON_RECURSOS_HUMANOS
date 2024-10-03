@@ -17,7 +17,7 @@
         .row
           .col-12
             .p-4.bg-c2
-              p.text-white.mb-0 Cabe resaltar que en la actualidad, existen organizaciones especializadas o personas naturales que ofrecen el servicio de cazatalentos, conocidas como outsourcing, lo que permite a las organizaciones dedicarse a su filosofía misional.
+              p.text-white.mb-0 Cabe resaltar que en la actualidad, existen organizaciones especializadas o personas naturales que ofrecen el servicio de cazatalentos, conocidas como #[i outsourcing], lo que permite a las organizaciones dedicarse a su filosofía misional.
       .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/intro/img1.svg', style='width: 350px', alt='').m-auto

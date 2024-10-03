@@ -109,22 +109,22 @@
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
-                img(src='@/assets/curso/tema2/img5.svg', style='width: 60px', alt='').m-auto
+                img.img-a.img-t(src='@/assets/curso/tema2/img5.svg', alt='')
               p.text-center.text-white.mb-0 #[b Entrevista preliminar.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
-                img(src='@/assets/curso/tema2/img6.svg', style='width: 60px', alt='').m-auto
+                img.img-a.img-t(src='@/assets/curso/tema2/img6.svg', alt='')
               p.text-center.text-white.mb-0 #[b Entrevista personal.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
-                img(src='@/assets/curso/tema2/img7.svg', style='width: 60px', alt='').m-auto
+                img.img-a.img-t(src='@/assets/curso/tema2/img7.svg', alt='')
               p.text-center.text-white.mb-0 #[b Entrevista grupal.]
           .col-10.col-md-5.col-lg-3.mb-4.mb-lg-0
             .p-4.bg-c2.h-100
               figure.mb-3
-                img(src='@/assets/curso/tema2/img8.svg', style='width: 60px', alt='').m-auto
+                img.img-a.img-t(src='@/assets/curso/tema2/img8.svg', alt='')
               p.text-center.text-white.mb-0 #[b Entrevista técnica.]
     .row.bg-c9.mb-5
       .col-12
@@ -227,7 +227,7 @@
                   figure
                     img(src='@/assets/curso/tema2/img14.svg', style='width: 80px', alt='').m-auto
                 .col
-                  P.mb-0 Finalmente superada todas las etapas en el proceso de selección, esta parte es la culminación, en la que la organización dispone del proceso de contratación.
+                  P.mb-0 Finalmente, superada todas las etapas en el proceso de selección, esta parte es la culminación, en la que la organización dispone del proceso de contratación.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
               img(src='@/assets/curso/tema2/img9.png', style='width: 160px', alt='').m-auto
